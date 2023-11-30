@@ -1,4 +1,4 @@
 # ashwa
 this is my first git reposertery.
 </br>
-author ashwani
+author ashwani(ashu bahi)
